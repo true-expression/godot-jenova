@@ -1,8 +1,7 @@
 name: 🐧 Linux Builds
 on:
   workflow_call:
-    workflow_call:
-    workflow_dispatch:
+  workflow_dispatch:
 
 # Global Settings
 env:
